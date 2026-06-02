@@ -1,0 +1,12 @@
+:root{--bg:#f6f8fa;--card:#ffffff;--accent:#0b5fff;--muted:#6b7280}
+*{box-sizing:border-box;font-family:Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif}
+html,body{height:100%}
+body{margin:0;background:linear-gradient(180deg,var(--bg),#eef2ff);display:grid;place-items:center;padding:24px}
+.card{width:100%;max-width:420px;background:var(--card);border-radius:12px;padding:24px;box-shadow:0 6px 20px rgba(11,95,255,0.06);text-align:center}
+h1{margin:0 0 18px;font-size:1.25rem}
+.field{display:block;text-align:left;margin-bottom:12px}
+.label{display:block;color:var(--muted);font-size:0.85rem;margin-bottom:6px}
+input[type=number]{width:100%;padding:10px 12px;border:1px solid #e6e9ef;border-radius:8px;font-size:1rem}
+.note{margin-top:8px;color:var(--muted);font-size:0.9rem}
+.attribution{margin-top:14px;font-size:0.8rem;color:#9aa3b2}
+@media (prefers-color-scheme:dark){:root{--bg:#0b1220;--card:#07101a;--accent:#3b82f6;--muted:#9aa3b2}body{background:linear-gradient(180deg,#07101a,#021024)}}
