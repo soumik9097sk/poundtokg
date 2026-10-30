@@ -1,0 +1,118 @@
+theme,group,variable,spend,is_default
+External Factors,Average Price,average_price,,1
+External Factors,Average Price,average_price_yoy_pct,,1
+External Factors,MAP,quarterly weighted map,,1
+External Factors,Promo MAP,quarterly weighted promo map,,1
+External Factors,Seasonality,ob_seasonailty_sales,,1
+External Factors,Seasonality,ob_seasonailty_sales_smooth,,1
+External Factors,Seasonality,ob_seasonality_sales_removing_trend,,1
+External Factors,Seasonality,ob_trend_sales,,1
+External Factors,Seasonality,ob_seasonality_sales_removing_trend_smooth,,1
+External Factors,Seasonality,ob_trend_sales_smooth,,1
+External Factors,Inventory,ob_total on hand units,,1
+External Factors,Inventory,ob_average on hand units,,1
+External Factors,Inventory,ob_total on hand units_yoy_pct,,1
+External Factors,Inventory,ob_average on hand units_yoy_pct,,1
+External Factors,Macroeconomics,ob_macro_average_household_personal_disposable_income_real_us,,1
+External Factors,Macroeconomics,ob_macro_consumer_price_index,,1
+External Factors,Macroeconomics,ob_macro_consumer_spending_nominal_lcu_package_holidays,,1
+External Factors,Macroeconomics,ob_macro_consumer_spending_real_us_food,,1
+External Factors,Macroeconomics,ob_macro_consumer_spending_real_ppp_package_holidays,,1
+External Factors,Macroeconomics,ob_macro_consumer_spending_real_us_food_and_non_alcoholic_beverages_total,,1
+External Factors,Macroeconomics,ob_macro_gas_price,,1
+External Factors,Macroeconomics,ob_macro_consumer_spending_real_us_non_alcoholic_beverages,,1
+External Factors,Macroeconomics,ob_macro_gdp_per_capita_ppp_exchange_rate_nominal_us,,1
+External Factors,Macroeconomics,ob_macro_house_price_index,,1
+External Factors,Macroeconomics,ob_macro_unemployment_rate,,1
+External Factors,Macroeconomics,ob_macro_united_states_consumer_confidence_br_index_cci_conference_board,,1
+External Factors,Macroeconomics,ob_macro_average_household_personal_disposable_income_real_us_pct_chg_yoy,,1
+External Factors,Macroeconomics,ob_macro_consumer_price_index_pct_chg_yoy,,1
+External Factors,Macroeconomics,ob_macro_gas_price_pct_chg_yoy,,1
+External Factors,Macroeconomics,ob_macro_gdp_per_capita_ppp_exchange_rate_nominal_us_pct_chg_yoy,,1
+External Factors,Macroeconomics,ob_macro_house_price_index_pct_chg_yoy,,1
+External Factors,Macroeconomics,ob_macro_unemployment_rate_pct_chg_yoy,,1
+External Factors,Macroeconomics,ob_macro_united_states_consumer_confidence_br_index_cci_conference_board_pct_chg_yoy,,1
+External Factors,Organic Search,ob_organic search_clicks,,1
+External Factors,Organic Search,ob_organic search_imprs,,1
+External Factors,Website,ob_website_pdp_view,,1
+External Factors,Website,ob_website_pdp_view_yoy_pct,,1
+External Factors,Competitor,ob_competition_breville_spend,,1
+External Factors,Competitor,ob_competition_cuisinart_spend,,1
+External Factors,Competitor,ob_competition_delonghi_spend,,1
+External Factors,Competitor,ob_competition_jura_spend,,1
+External Factors,Competitor,ob_competition_keurig_spend,,1
+External Factors,Competitor,ob_competition_nespresso_spend,,1
+External Factors,Competitor,ob_competition_ninja_spend,,1
+External Factors,Competitor,ob_competition_ooni_spend,,1
+External Factors,Competitor,ob_competition_philips_spend,,1
+External Factors,Event Flag,ob_organicpromo_fresh start,,1
+External Factors,Event Flag,ob_organicpromo_valentines day,,1
+External Factors,Event Flag,ob_organicpromo_premothers day,,1
+External Factors,Event Flag,ob_organicpromo_mothers day,,1
+External Factors,Event Flag,ob_organicpromo_summer savings,,1
+External Factors,Event Flag,ob_organicpromo_black friday in july,,1
+External Factors,Event Flag,ob_organicpromo_back to school,,1
+External Factors,Event Flag,ob_organicpromo_sept to remember,,1
+External Factors,Event Flag,ob_organicpromo_national coffee day,,1
+External Factors,Event Flag,ob_organicpromo_harvest,,1
+External Factors,Event Flag,ob_organicpromo_ nonsm ad leak,,1
+External Factors,Event Flag,ob_organicpromo_black friday,,1
+External Factors,Event Flag,ob_organicpromo_holiday,,1
+Promotions,Promotions,depth_of_promotion_simple_arith_avg,,0
+Promotions,Promotions,depth_of_promotion_simple_geom_avg,,0
+Promotions,Promotions,promo_days_coverage,,0
+Promotions,Promotions,no_of_promo_skus,,0
+Promotions,Promotions,depth of promotion weighted,,0
+Promotions,Promotions,no_of_sold_promo_skus,,0
+Promotions,Promotions,depth of promotion quarterly weighted,,0
+KAMA Marketing,KAMA Marketing,kama_imprs,,0
+Halo,Coffee Espresso Consumer,halo_coffee espresso_cm_audio_imprs,,0
+Halo,Coffee Espresso Consumer,halo_coffee espresso_cm_addressable tv_imprs,,0
+Halo,Coffee Espresso Consumer,halo_coffee espresso_cm_olv_imprs,,0
+Halo,Coffee Espresso Consumer,halo_coffee espresso_cm_ola_imprs,,0
+Halo,Coffee Espresso Consumer,halo_coffee espresso_cm_paid social_imprs,,0
+Halo,Coffee Espresso Performance,halo_coffee espresso_pm_paid search_clicks,,0
+Halo,Coffee Espresso Shopper,halo_coffee espresso_sh_digital_imprs,,0
+Halo,Coffee Espresso Shopper,halo_coffee espresso_sh_sponsored products_imprs,,0
+Halo,Cross Category Consumer,halo_cross category_cm_paid social_imprs,,0
+Halo,Cross Category Performance,halo_cross category_pm_paid search_clicks,,0
+Halo,Cross Category Shopper,halo_cross category_sh_digital_imprs,,0
+Halo,Cross Category Shopper,halo_cross category_sh_sponsored products_imprs,,0
+Halo,Cross Category Shopper,halo_cross category_sh_instore_spend,,0
+Halo,Stand Mixer Attachments Consumer,halo_stand mixer attachments_cm_paid social_imprs,,0
+Halo,Stand Mixer Attachments Performance,halo_stand mixer attachments_pm_paid search_clicks,,0
+Halo,Stand Mixer Attachments Shopper,halo_stand mixer attachments_sh_digital_imprs,,0
+Halo,Stand Mixer Attachments Shopper,halo_stand mixer attachments_sh_sponsored products_imprs,,0
+Halo,Stand Mixer Attachments Shopper,halo_stand mixer attachments_sh_instore_spend,,0
+External Factors,Seasonality,week_num,,1
+External Factors,Seasonality,month,,1
+Consumer Marketing,Addressable TV,cm_total_addressable_tv_imprs,cm_total_addressable_tv_spend,0
+Consumer Marketing,CM_Paid Social,cm_total_cm_paid_social_imprs,cm_total_cm_paid_social_spend,0
+Consumer Marketing,Content,cm_total_content_imprs,cm_total_content_spend,0
+Consumer Marketing,CTV,cm_total_ctv_imprs,cm_total_ctv_spend,0
+Consumer Marketing,Linear TV,cm_total_linear_tv_imprs,cm_total_linear_tv_spend,0
+Consumer Marketing,OLA,cm_total_ola_imprs,cm_total_ola_spend,0
+Consumer Marketing,OLV,cm_total_olv_imprs,cm_total_olv_spend,0
+Other Media,Direct Mail,om_total_direct_mail_mail count,,0
+Other Media,Email,om_total_email_sent,,0
+Other Media,PR Earned,om_total_pr_earned_imprs,,0
+Other Media,PR Infulencer,om_total_pr_infulencer_imprs,,0
+Other Media,SMS,om_total_sms_sent,,0
+Performance Marketing,Paid Search,pm_total_paid_search_clicks,pm_total_paid_search_spend,0
+Performance Marketing Cross Category,Affiliates,pmcc_total_affiliates_clicks,,0
+Performance Marketing Cross Category,PM_Paid Social,pmcc_total_pm_paid_social_imprs,,0
+Performance Marketing Cross Category,Prog Display,pmcc_total_prog_display_imprs,,0
+Shopper Marketing,Digital Shopper,sh_total_digital_shopper_imprs,sh_total_digital_shopper_spend,0
+Shopper Marketing,In-store Shopper,sh_total_in-store_shopper_spend,sh_total_in-store_shopper_spend,0
+Shopper Marketing,Sponsored Products,sh_total_sponsored_products_imprs,sh_total_sponsored_products_spend,0
+External Factors,Event Flag,event_mothers_day,,1
+External Factors,Event Flag,event_pre_mothers_day,,1
+External Factors,Event Flag,event_prime_day_july,,1
+External Factors,Event Flag,event_prime_day_oct,,1
+External Factors,Event Flag,event_prime_days,,1
+External Factors,Event Flag,event_black_friday,,1
+External Factors,Event Flag,event_pre_black_friday,,1
+External Factors,Event Flag,event_post_black_friday,,1
+External Factors,Event Flag,event_christmas_week,,1
+External Factors,Event Flag,event_pre_christmas_week,,1
+External Factors,Macroeconomics,ob_macro_CCI_centered,,1
